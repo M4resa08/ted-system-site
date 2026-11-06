@@ -19,7 +19,12 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Acessibilidade",
+      descricao: "Garantir que interfaces e ferramentas digitais sejam fáceis de entender e usar por qualquer pessoa."
     }
+
   ],
   publicoAlvo:
     "Pequenas e médias empresas (PMEs), startups e profissionais autônomos de diversos segmentos, como comércio, saúde, educação e serviços, que precisam de sistemas web, aplicativos e soluções de gestão personalizadas, além de organizações que buscam modernizar sistemas legados ou melhorar a gestão e a segurança de seus dados.",
@@ -55,6 +60,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Monica Geller",
+      cargo: "Engenheira de Confiabilidade de Sites (SRE) / QA Tech Lead",
+      foto: "/images/monica.jpg",
+      alt: "Foto de Monica Geller",
+      descricao: "Responsável por garantir que os sistemas estejam impecavelmente limpos, organizados e livres de bugs. Se algo sair do lugar no servidor, ela descobre antes do monitoramento."
     }
   ]
 };
